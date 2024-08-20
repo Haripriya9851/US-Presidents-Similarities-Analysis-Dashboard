@@ -1,4 +1,4 @@
-# Decision-Support-Business-Intelligence---Projects
+# US Presidents Similarity Analysis
 Decision Support &amp; Business Intelligence - Projects
 
 Please refer: https://github.com/Haripriya9851/US-Presidents-Similarities-Analysis-Dashboard/blob/main/First%2016%20US%20Presidents%20Analysis%20-%20Power%20BI.pdf
